@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 <a href="https://kotlinlang.org/">
   <img alt="Kotlin" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
 </a>
-<a href="https://dart.dev/">
+<!--a href="https://dart.dev/">
   <img alt="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40">
 </a>
 <a href="https://flutter.dev/">
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 <a href="https://go.dev/">
   <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40">
-</a>
+</a-->
 
 <a href="https://www.typescriptlang.org/">
   <img alt="Typescript" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
