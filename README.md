@@ -68,6 +68,9 @@ Here are some ideas to get you started:
 <a href="https://www.djangoproject.com/">
   <img alt="Django" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="55"/>
 </a>
+<a href="https://flask.palletsprojects.com/">
+  <img alt="Flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="55"/>
+</a>
 
 <a href="https://laravel.com/">
   <img alt="Laravel" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="40">
