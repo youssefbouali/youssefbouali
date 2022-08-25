@@ -56,6 +56,9 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/en/">
   <img alt="Nodejs" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
 </a>
+<a href="https://www.npmjs.com/">
+  <img alt="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="40">
+</a>
 <a href="https://rubyonrails.org/">
   <img alt="Rails" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" width="40"/>
 </a>
