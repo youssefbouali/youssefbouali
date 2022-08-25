@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 <a href="https://www.ruby-lang.org/en/">
   <img alt="Ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="40">
 </a>
+<a href="https://www.perl.org/">
+  <img alt="Perl" src="https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png" width="40">
+</a>
 <a href="https://nodejs.org/en/">
   <img alt="Nodejs" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
 </a>
