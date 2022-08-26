@@ -77,6 +77,9 @@ Here are some ideas to get you started:
 <a href="https://flask.palletsprojects.com/">
   <img alt="Flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="55"/>
 </a>
+<a href="https://www.nginx.com/">
+  <img alt="Nginx" src="https://camo.githubusercontent.com/8b9fd4b3da512f7b042a866f2281f950db69a21c6e274089524f2796012bc59f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e67696e782d6f726967696e616c2e737667" width="55"/>
+</a>
 
 <a href="https://laravel.com/">
   <img alt="Laravel" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="40">
@@ -89,6 +92,9 @@ Here are some ideas to get you started:
 </a>
 <a href="http://sass-lang.com/">
   <img alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40">
+</a>
+<a href="https://www.chartjs.org/">
+  <img alt="Chart.js" src="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667" width="40">
 </a>
 <a href="https://vuejs.org/">
   <img alt="Vuejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="40">
@@ -140,6 +146,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.postgresql.org/">
   <img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40">
+</a>
+<a href="https://mariadb.org/">
+  <img alt="MariaDB" src="https://camo.githubusercontent.com/28442265ca84bb599315850b867a8408bd1e41a460efa336454146c23fa70156/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6172696164622e706e67" width="40">
 </a>
 
 <a href="https://www.arduino.cc/">
