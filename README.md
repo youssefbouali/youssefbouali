@@ -218,6 +218,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/">
   <img alt="Github" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40">
 </a>
+<!--a href="https://gitlab.com/">
+  <img alt="Gitlab" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png" width="40">
+</a-->
 
 <a href="https://fr.wikipedia.org/wiki/Merise_(informatique)">
   <img alt="Merise" src="http://www.jfreesoft.com/JMerise/images/JMeriseLogoPetit.png" width="40">
