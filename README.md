@@ -56,6 +56,12 @@ Here are some ideas to get you started:
 <a href="https://www.perl.org/">
   <img alt="Perl" src="https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png" width="40">
 </a>
+<!--a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)">
+  <img alt="Pascal" src="https://static-s.aa-cdn.net/img/ios/461310295/6e5c910d970804a9c4b67a40eb3e0a0c" width="40">
+</a-->
+<!--a href="https://www.rust-lang.org/">
+  <img alt="Rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="40">
+</a-->
 <a href="https://nodejs.org/en/">
   <img alt="Nodejs" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
 </a>
@@ -166,6 +172,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.electronjs.org/">
   <img alt="Electronjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" width="40">
+</a>
+
+<a href="https://godotengine.org/">
+  <img alt="Godot" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" width="40">
 </a>
 
 <a href="https://ethereum.org/">
