@@ -62,6 +62,12 @@ Here are some ideas to get you started:
 <!--a href="https://www.rust-lang.org/">
   <img alt="Rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="40">
 </a-->
+<!--a href="https://www.lua.org/">
+  <img alt="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" width="40">
+</a-->
+<!--a href="https://www.scala-lang.org/">
+  <img alt="Scala" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" width="40">
+</a-->
 <a href="https://nodejs.org/en/">
   <img alt="Nodejs" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
 </a>
