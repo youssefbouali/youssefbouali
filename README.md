@@ -59,6 +59,12 @@ Here are some ideas to get you started:
 <!--a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)">
   <img alt="Pascal" src="https://static-s.aa-cdn.net/img/ios/461310295/6e5c910d970804a9c4b67a40eb3e0a0c" width="40">
 </a-->
+<!--a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+  <img alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40">
+</a-->
+<!--a href="https://www.asp.net/">
+  <img alt="Asp.net" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" width="40">
+</a-->
 <!--a href="https://www.rust-lang.org/">
   <img alt="Rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="40">
 </a-->
