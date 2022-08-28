@@ -195,6 +195,12 @@ Here are some ideas to get you started:
   <img alt="Godot" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" width="40">
 </a>
 
+<a href="https://sphinxsearch.com/">
+  <img alt="Sphinx Search" src="https://victorroblesweb.es/wp-content/uploads/2014/12/sphinx1.png" width="40">
+</a>
+<a href="https://en.wikipedia.org/wiki/CMU_Sphinx">
+  <img alt="CMU Sphinx" src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/5403/1102/thumbnail.png?v130939546246607442" width="40">
+</a>
 <a href="https://opencv.org/">
   <img alt="OpenCV" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" width="40">
 </a>
