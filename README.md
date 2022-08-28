@@ -201,6 +201,9 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/CMU_Sphinx">
   <img alt="CMU Sphinx" src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/5403/1102/thumbnail.png?v130939546246607442" width="40">
 </a>
+<a href="https://en.wikipedia.org/wiki/Tesseract_(software)">
+  <img alt="Tesseract OCR" src="https://1.bp.blogspot.com/-R3MSFSXNYy0/X6rOo_QyKQI/AAAAAAAAAoU/zUyxgmn50KktZ0jF1bgfuYyV5UbVxjEOQCLcBGAsYHQ/s1080/tesseract.png" width="40">
+</a>
 <a href="https://opencv.org/">
   <img alt="OpenCV" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" width="40">
 </a>
