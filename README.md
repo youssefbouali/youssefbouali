@@ -59,12 +59,6 @@ Here are some ideas to get you started:
 <!--a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)">
   <img alt="Pascal" src="https://static-s.aa-cdn.net/img/ios/461310295/6e5c910d970804a9c4b67a40eb3e0a0c" width="40">
 </a-->
-<!--a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-  <img alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40">
-</a-->
-<!--a href="https://www.asp.net/">
-  <img alt="Asp.net" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" width="40">
-</a-->
 <!--a href="https://www.rust-lang.org/">
   <img alt="Rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="40">
 </a-->
@@ -73,6 +67,12 @@ Here are some ideas to get you started:
 </a-->
 <!--a href="https://www.scala-lang.org/">
   <img alt="Scala" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" width="40">
+</a-->
+<!--a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+  <img alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40">
+</a-->
+<!--a href="https://www.asp.net/">
+  <img alt="Asp.net" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" width="40">
 </a-->
 <a href="https://nodejs.org/en/">
   <img alt="Nodejs" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
@@ -139,22 +139,24 @@ Here are some ideas to get you started:
 <!--a href="https://dart.dev/">
   <img alt="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40">
 </a>
-<a href="https://flutter.dev/">
+<!--a href="https://flutter.dev/">
   <img alt="Flutter" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" width="40">
-</a>
+</a-->
+<!--a href="https://fr.wikipedia.org/wiki/Xamarin">
+  <img alt="Xamarin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" width="40">
+</a-->
 
-<a href="https://go.dev/">
+<!--a href="https://go.dev/">
   <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40">
 </a-->
 
 <a href="https://www.typescriptlang.org/">
   <img alt="Typescript" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
 </a>
-
-
 <a href="https://webpack.js.org/">
   <img alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="40">
 </a>
+
 <a href="https://www.docker.com/">
   <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="40">
 </a>
@@ -167,6 +169,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://mariadb.org/">
   <img alt="MariaDB" src="https://camo.githubusercontent.com/28442265ca84bb599315850b867a8408bd1e41a460efa336454146c23fa70156/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6172696164622e706e67" width="40">
+</a>
+<a href="https://www.sqlite.org/">
+  <img alt="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" width="40">
 </a>
 
 <a href="https://www.arduino.cc/">
