@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com/">
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40">
 </a>
-<a href="http://sass-lang.com/">
+<a href="https://sass-lang.com/">
   <img alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40">
 </a>
 <a href="https://www.chartjs.org/">
