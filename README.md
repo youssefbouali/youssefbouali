@@ -163,6 +163,9 @@ Here are some ideas to get you started:
 <a href="https://www.proxmox.com/en/">
   <img alt="Proxmox" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs" width="40">
 </a>
+<a href="https://www.qemu.org/">
+  <img alt="Qemu" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" width="40">
+</a>
 
 <a href="https://www.mongodb.com/">
   <img alt="Mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="55">
@@ -292,6 +295,9 @@ Here are some ideas to get you started:
 
 <a href="https://code.visualstudio.com/">
   <img alt="Visualstudio" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+</a>
+<a href="https://www.virtualbox.org/">
+  <img alt="VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40">
 </a>
 <a href="https://www.adobe.com/products/photoshop.html">
   <img alt="Photoshop" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" width="40">
