@@ -157,16 +157,6 @@ Here are some ideas to get you started:
   <img alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="40">
 </a>
 
-<a href="https://www.docker.com/">
-  <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="40">
-</a>
-<a href="https://www.proxmox.com/en/">
-  <img alt="Proxmox" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs" width="40">
-</a>
-<a href="https://www.qemu.org/">
-  <img alt="Qemu" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" width="40">
-</a>
-
 <a href="https://www.mongodb.com/">
   <img alt="Mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="55">
 </a>
@@ -178,6 +168,28 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.sqlite.org/">
   <img alt="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" width="40">
+</a>
+
+<a href="https://www.docker.com/">
+  <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="40">
+</a>
+<a href="https://www.proxmox.com/en/">
+  <img alt="Proxmox" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs" width="40">
+</a>
+<a href="https://www.qemu.org/">
+  <img alt="Qemu" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" width="40">
+</a>
+<a href="https://vyos.io/">
+  <img alt="VyOS" src="https://avatars.githubusercontent.com/u/5647000?s=200&v=4" width="40">
+</a>
+<a href="https://fr.wikipedia.org/wiki/Packet_Tracer">
+  <img alt="Packet Tracer" src="https://img.utdstc.com/icon/721/e38/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28:200" width="40">
+</a>
+<a href="https://www.gns3.com/">
+  <img alt="GNS3" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="40">
+</a>
+<a href="https://www.wireshark.org/">
+  <img alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" width="40">
 </a>
 
 <a href="https://www.arduino.cc/">
@@ -313,6 +325,16 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.adobe.com/products/indesign.html">
   <img alt="Indesign" src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" width="40">
+</a>
+
+<a href="https://www.microsoft.com/fr-fr/microsoft-365/word">
+  <img alt="Word" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/782px-Microsoft_Word_2013-2019_logo.svg.png" width="40">
+</a>
+<a href="https://www.microsoft.com/fr-fr/microsoft-365/excel">
+  <img alt="Exel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" width="40">
+</a>
+<a href="https://www.microsoft.com/fr-fr/microsoft-365/powerpoint">
+  <img alt="PowerPoint" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" width="40">
 </a>
 
 </p>
