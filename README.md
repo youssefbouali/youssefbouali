@@ -191,6 +191,18 @@ Here are some ideas to get you started:
 <a href="https://www.wireshark.org/">
   <img alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" width="40">
 </a>
+<a href="https://nmap.org/">
+  <img alt="Nmap" src="https://avatars.githubusercontent.com/u/63385?s=200&v=4" width="40">
+</a>
+<a href="https://portswigger.net/burp">
+  <img alt="Burp Suite" src="https://addons.mozilla.org/user-media/previews/full/242/242914.png?modified=1622135692" width="40">
+</a>
+<a href="https://www.metasploit.com/">
+  <img alt="Metasploit" src="https://pbs.twimg.com/media/D0cHe1PVsAApKKT.jpg" width="40">
+</a>
+<a href="https://sqlmap.org/">
+  <img alt="Sqlmap" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40">
+</a>
 
 <a href="https://www.arduino.cc/">
   <img alt="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="40">
