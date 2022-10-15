@@ -225,6 +225,10 @@ Here are some ideas to get you started:
   <img alt="Godot" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" width="40">
 </a>
 
+<a href="https://www.openldap.org/">
+  <img alt="OpenLDAP" src="https://avatars.githubusercontent.com/u/12108639?s=200&v=4" width="40">
+</a>
+
 <a href="https://sphinxsearch.com/">
   <img alt="Sphinx Search" src="https://victorroblesweb.es/wp-content/uploads/2014/12/sphinx1.png" width="40">
 </a>
