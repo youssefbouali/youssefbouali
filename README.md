@@ -305,6 +305,14 @@ Here are some ideas to get you started:
   <img alt="Gitlab" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png" width="40">
 </a-->
 
+<a href="https://www.microsoft.com/en-us/windows-server">
+  <img alt="Windows Server" src="https://img2.freepng.fr/20180920/fol/kisspng-windows-server-2-12-logo-organization-brand-windows-server-5ba39cd715d540.3534964615374491750894.jpg" width="40">
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Active_Directory">
+  <img alt="Active Derictory" src="https://cdn.freebiesupply.com/logos/large/2x/azure-active-directory-logo-png-transparent.png" width="40">
+</a>
+
 <a href="https://fr.wikipedia.org/wiki/Merise_(informatique)">
   <img alt="Merise" src="http://www.jfreesoft.com/JMerise/images/JMeriseLogoPetit.png" width="40">
 </a>
