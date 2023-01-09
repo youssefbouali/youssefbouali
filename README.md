@@ -335,6 +335,9 @@ Here are some ideas to get you started:
 <a href="https://www.virtualbox.org/">
   <img alt="VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40">
 </a>
+<a href="https://www.vmware.com/products/workstation-pro.html">
+  <img alt="Vmware Workstation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/640px-Vmware_workstation_16_icon.svg.png" width="40">
+</a>
 <a href="https://www.adobe.com/products/photoshop.html">
   <img alt="Photoshop" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" width="40">
 </a>
