@@ -179,6 +179,12 @@ Here are some ideas to get you started:
 <a href="https://www.qemu.org/">
   <img alt="Qemu" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" width="40">
 </a>
+<a href="https://www.vmware.com/products/esxi-and-esx.html">
+  <img alt="VMware ESXi" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png" width="40">
+</a>
+<a href="https://fr.wikipedia.org/wiki/Hyper-V">
+  <img alt="Hyper-V" src="https://logodix.com/logo/457930.png" width="40">
+</a>
 <a href="https://vyos.io/">
   <img alt="VyOS" src="https://avatars.githubusercontent.com/u/5647000?s=200&v=4" width="40">
 </a>
