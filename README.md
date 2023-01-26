@@ -185,14 +185,17 @@ Here are some ideas to get you started:
 <a href="https://fr.wikipedia.org/wiki/Hyper-V">
   <img alt="Hyper-V" src="https://logodix.com/logo/457930.png" width="40">
 </a>
-<a href="https://vyos.io/">
-  <img alt="VyOS" src="https://avatars.githubusercontent.com/u/5647000?s=200&v=4" width="40">
-</a>
 <a href="https://fr.wikipedia.org/wiki/Packet_Tracer">
   <img alt="Packet Tracer" src="https://img.utdstc.com/icon/721/e38/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28:200" width="40">
 </a>
+<a href="https://vyos.io/">
+  <img alt="VyOS" src="https://avatars.githubusercontent.com/u/5647000?s=200&v=4" width="40">
+</a>
 <a href="https://www.gns3.com/">
   <img alt="GNS3" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="40">
+</a>
+<a href="https://www.ansible.com/">
+  <img alt="Ansible" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" width="40">
 </a>
 <a href="https://www.wireshark.org/">
   <img alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" width="40">
