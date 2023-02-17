@@ -203,6 +203,12 @@ Here are some ideas to get you started:
 <a href="https://nmap.org/">
   <img alt="Nmap" src="https://avatars.githubusercontent.com/u/63385?s=200&v=4" width="40">
 </a>
+<a href="https://subgraph.com/vega/">
+  <img alt="Vega Security" src="https://securityonline.info/wp-content/uploads/2017/04/vega-transparent.png" width="60">
+</a>
+<a href="https://www.tenable.com/products/nessus">
+  <img alt="Nessus" src="https://warlord0blog.files.wordpress.com/2016/10/nessus-logo-e1475580279964.png" width="60">
+</a>
 <a href="https://portswigger.net/burp">
   <img alt="Burp Suite" src="https://addons.mozilla.org/user-media/previews/full/242/242914.png?modified=1622135692" width="40">
 </a>
