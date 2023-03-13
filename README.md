@@ -169,6 +169,19 @@ Here are some ideas to get you started:
 <a href="https://www.sqlite.org/">
   <img alt="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" width="40">
 </a>
+<a href="http://www.squid-cache.org/">
+  <img alt="Squid Proxy" src="https://upload.wikimedia.org/wikipedia/fr/b/b7/Squid-cache_logo.jpg" width="40">
+</a>
+
+<a href="https://openvpn.net/">
+  <img alt="OpenVpn" src="https://play-lh.googleusercontent.com/E9DIOxBPab_nMUfmf2fhzNcEAmjOx-wstIak5zwJpZm7184nd8fUPGBeWMvBMnkOHg" width="40">
+</a>
+<a href="https://clonezilla.org/">
+  <img alt="Clonezilla" src="https://clonezilla.org/images/clonezilla_logo_small.png" width="30">
+</a>
+<a href="https://www.asterisk.org/">
+  <img alt="Asterisk" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo-fb-share.png" width="50">
+</a>
 
 <a href="https://www.docker.com/">
   <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="40">
@@ -230,6 +243,9 @@ Here are some ideas to get you started:
 
 <a href="https://wordpress.org/">
   <img alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/wordpress/wordpress.png" width="40">
+</a>
+<a href="https://owncloud.com/">
+  <img alt="Owncloud" src="https://www.heise.de/download/media/owncloud-85372/owncloud-logo1_1-1-30.png" width="40">
 </a>
 
 <a href="https://www.electronjs.org/">
