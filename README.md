@@ -186,6 +186,10 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/">
   <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="40">
 </a>
+<a href="https://kubernetes.io/">
+  <img alt="Kubernetes" src="https://www.zdnet.com/a/img/2015/07/21/bb0de0fc-5d9c-47c3-96dd-42ed50858fdb/kubernetes-logo.png" width="40">
+</a>
+
 <a href="https://www.proxmox.com/en/">
   <img alt="Proxmox" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs" width="40">
 </a>
@@ -198,6 +202,17 @@ Here are some ideas to get you started:
 <a href="https://fr.wikipedia.org/wiki/Hyper-V">
   <img alt="Hyper-V" src="https://logodix.com/logo/457930.png" width="40">
 </a>
+  
+<a href="https://azure.microsoft.com/">
+  <img alt="Microsoft Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/800px-Microsoft_Azure.svg.png" width="40">
+</a>
+<a href="https://www.openstack.org/">
+  <img alt="Openstack" src="https://www.smile.eu/sites/default/files/styles/picture_news_technology/public/2017-08/Openstack.png?itok=AnO8p01z" width="40">
+</a>
+<a href="https://cloudstack.apache.org/">
+  <img alt="Cloudstack" src="https://cloudstack.apache.org/images/monkey.png" width="40">
+</a>
+  
 <a href="https://fr.wikipedia.org/wiki/Packet_Tracer">
   <img alt="Packet Tracer" src="https://img.utdstc.com/icon/721/e38/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28:200" width="40">
 </a>
@@ -246,6 +261,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://owncloud.com/">
   <img alt="Owncloud" src="https://www.heise.de/download/media/owncloud-85372/owncloud-logo1_1-1-30.png" width="40">
+</a>
+<a href="https://nextcloud.com/">
+  <img alt="Nextcloud" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/2560px-Nextcloud_Logo.svg.png" width="40">
 </a>
 
 <a href="https://www.electronjs.org/">
