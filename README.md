@@ -207,7 +207,7 @@ Here are some ideas to get you started:
   <img alt="Microsoft Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/800px-Microsoft_Azure.svg.png" width="40">
 </a>
 <a href="https://www.openstack.org/">
-  <img alt="Openstack" src="https://www.smile.eu/sites/default/files/styles/picture_news_technology/public/2017-08/Openstack.png?itok=AnO8p01z" width="40">
+  <img alt="Openstack" src="https://www.smile.eu/sites/default/files/styles/picture_news_technology/public/2017-08/Openstack.png" width="40">
 </a>
 <a href="https://cloudstack.apache.org/">
   <img alt="Cloudstack" src="https://cloudstack.apache.org/images/monkey.png" width="40">
@@ -224,6 +224,15 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.ansible.com/">
   <img alt="Ansible" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" width="40">
+</a>
+<a href="https://www.puppet.com/">
+  <img alt="Puppet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Puppet_transparent_logo.svg/1200px-Puppet_transparent_logo.svg.png" width="60">
+</a>
+<a href="https://www.nagios.org/">
+  <img alt="Nagios" src="https://a.slack-edge.com/80588/img/services/nagios_512.png" width="40">
+</a>
+<a href="https://www.splunk.com/">
+  <img alt="Splunk" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" width="60">
 </a>
 <a href="https://www.wireshark.org/">
   <img alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" width="40">
