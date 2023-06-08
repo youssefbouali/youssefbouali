@@ -246,6 +246,12 @@ Here are some ideas to get you started:
 <a href="https://www.tenable.com/products/nessus">
   <img alt="Nessus" src="https://warlord0blog.files.wordpress.com/2016/10/nessus-logo-e1475580279964.png" width="60">
 </a>
+<a href="https://www.pfsense.org/">
+  <img alt="Pfsense" src="https://autoformation.ma/store/1101/478-4782464_pfsense-square-logo-pfsense-logo-square-hd-png.png" width="40">
+</a>
+<a href="https://www.snort.org/">
+  <img alt="Snort" src="https://all-it-network.com/wp-content/uploads/2017/10/ini_snort.png" width="60">
+</a>
 <a href="https://portswigger.net/burp">
   <img alt="Burp Suite" src="https://addons.mozilla.org/user-media/previews/full/242/242914.png?modified=1622135692" width="40">
 </a>
