@@ -321,7 +321,7 @@ Here are some ideas to get you started:
 **Languages and Technologies:**
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali)](https://github.com/youssefbouali/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali)]([https://github.com/youssefbouali/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali))
         </h3>
 <p float="left">
 
