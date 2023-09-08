@@ -434,5 +434,5 @@ Here are some ideas to get you started:
 </p>
 
 ##
-<a href="https://bouali.ml">
+<a href="https://bouali.wsoum.eu.org">
 💬 Find me [elsewhere on the internet]().</a>
