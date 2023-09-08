@@ -47,9 +47,6 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/CPP">
   <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40">
 </a>
-<a href="https://www.java.com/">
-  <img alt="Java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
-</a>
 <a href="https://www.ruby-lang.org/en/">
   <img alt="Ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="40">
 </a>
@@ -165,6 +162,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://mariadb.org/">
   <img alt="MariaDB" src="https://camo.githubusercontent.com/28442265ca84bb599315850b867a8408bd1e41a460efa336454146c23fa70156/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6172696164622e706e67" width="40">
+</a>
+<a href="https://www.oracle.com/database/">
+  <img alt="Oracle Database" src="https://media.licdn.com/dms/image/D5612AQGTzGGnu886Vw/article-cover_image-shrink_720_1280/0/1680581578662?e=2147483647&v=beta&t=Jc3XYEXXsZNfua5Dy96AX17G59H2LrEj4mcGb6rWt60" width="40">
 </a>
 <a href="https://www.sqlite.org/">
   <img alt="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" width="40">
@@ -330,6 +330,9 @@ Here are some ideas to get you started:
 
 <a href="https://www.python.org/">
   <img alt="Python" src="https://img.icons8.com/fluency/48/000000/python.png" width="55">
+</a>
+<a href="https://www.java.com/">
+  <img alt="Java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
 </a>
 <a href="https://www.php.net/">
   <img alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="50">
