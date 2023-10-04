@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🎓 I'm Studying Computer Science
+- 🎓 I'm Studying Information Technology
 - 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: he/him
@@ -434,5 +434,5 @@ Here are some ideas to get you started:
 </p>
 
 ##
-<a href="https://bouali.wsoum.eu.org">
+<a href="https://bouali.wsoum.eu.org" target="_blank">
 💬 Find me [elsewhere on the internet]().</a>
