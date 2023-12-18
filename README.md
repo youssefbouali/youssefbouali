@@ -71,15 +71,6 @@ Here are some ideas to get you started:
 <!--a href="https://www.asp.net/">
   <img alt="Asp.net" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" width="40">
 </a-->
-<a href="https://expressjs.com/">
-  <img alt="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40">
-</a>
-<a href="https://nodejs.org/en/">
-  <img alt="Nodejs" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
-</a>
-<a href="https://www.npmjs.com/">
-  <img alt="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="40">
-</a>
 <a href="https://rubyonrails.org/">
   <img alt="Rails" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" width="40"/>
 </a>
@@ -216,14 +207,8 @@ Here are some ideas to get you started:
   <img alt="Cloudstack" src="https://cloudstack.apache.org/images/monkey.png" width="40">
 </a>
   
-<a href="https://fr.wikipedia.org/wiki/Packet_Tracer">
-  <img alt="Packet Tracer" src="https://img.utdstc.com/icon/721/e38/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28:200" width="40">
-</a>
 <a href="https://vyos.io/">
   <img alt="VyOS" src="https://avatars.githubusercontent.com/u/5647000?s=200&v=4" width="40">
-</a>
-<a href="https://www.gns3.com/">
-  <img alt="GNS3" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="40">
 </a>
 <a href="https://www.ansible.com/">
   <img alt="Ansible" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" width="40">
@@ -231,20 +216,8 @@ Here are some ideas to get you started:
 <a href="https://www.puppet.com/">
   <img alt="Puppet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Puppet_transparent_logo.svg/1200px-Puppet_transparent_logo.svg.png" width="60">
 </a>
-<a href="https://www.nagios.org/">
-  <img alt="Nagios" src="https://a.slack-edge.com/80588/img/services/nagios_512.png" width="40">
-</a>
 <a href="https://www.splunk.com/">
   <img alt="Splunk" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" width="60">
-</a>
-<a href="https://www.wireshark.org/">
-  <img alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" width="40">
-</a>
-<a href="https://nmap.org/">
-  <img alt="Nmap" src="https://avatars.githubusercontent.com/u/63385?s=200&v=4" width="40">
-</a>
-<a href="https://subgraph.com/vega/">
-  <img alt="Vega Security" src="https://securityonline.info/wp-content/uploads/2017/04/vega-transparent.png" width="60">
 </a>
 <a href="https://www.tenable.com/products/nessus">
   <img alt="Nessus" src="https://warlord0blog.files.wordpress.com/2016/10/nessus-logo-e1475580279964.png" width="60">
@@ -355,6 +328,19 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/Progressive_web_application">
   <img alt="Progressive web application" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" width="40">
 </a>
+<a href="https://nodejs.org/en/">
+  <img alt="Nodejs" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
+</a>
+<a href="https://www.npmjs.com/">
+  <img alt="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="40">
+</a>
+<a href="https://expressjs.com/">
+  <img alt="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40">
+</a>
+
+<a href="https://jakarta.ee/">
+  <img alt="JakartaEE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg/800px-Jakarta_ee_logo_schooner_color_stacked_default.svg.png" width="40">
+</a>
 
 
 <a href="https://en.wikipedia.org/wiki/Linux">
@@ -399,6 +385,24 @@ Here are some ideas to get you started:
 
 <br />
 
+<a href="https://fr.wikipedia.org/wiki/Packet_Tracer">
+  <img alt="Packet Tracer" src="https://img.utdstc.com/icon/721/e38/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28:200" width="40">
+</a>
+<a href="https://www.gns3.com/">
+  <img alt="GNS3" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="40">
+</a>
+<a href="https://www.wireshark.org/">
+  <img alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" width="40">
+</a>
+<a href="https://www.nagios.org/">
+  <img alt="Nagios" src="https://a.slack-edge.com/80588/img/services/nagios_512.png" width="40">
+</a>
+<a href="https://nmap.org/">
+  <img alt="Nmap" src="https://avatars.githubusercontent.com/u/63385?s=200&v=4" width="40">
+</a>
+<a href="https://subgraph.com/vega/">
+  <img alt="Vega Security" src="https://securityonline.info/wp-content/uploads/2017/04/vega-transparent.png" width="60">
+</a>
 <a href="https://code.visualstudio.com/">
   <img alt="Visualstudio" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
 </a>
