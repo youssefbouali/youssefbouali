@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   <img alt="Flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="55"/>
 </a>
 <a href="https://www.nginx.com/">
-  <img alt="Nginx" src="https://camo.githubusercontent.com/8b9fd4b3da512f7b042a866f2281f950db69a21c6e274089524f2796012bc59f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e67696e782d6f726967696e616c2e737667" width="55"/>
+  <img alt="Nginx" src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="55"/>
 </a>
 
 <a href="https://laravel.com/">
@@ -102,8 +102,11 @@ Here are some ideas to get you started:
 <a href="https://sass-lang.com/">
   <img alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40">
 </a>
+<a href="https://fr.wikipedia.org/wiki/Representational_state_transfer">
+  <img alt="Rest API" src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" width="40">
+</a>
 <a href="https://www.chartjs.org/">
-  <img alt="Chart.js" src="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667" width="40">
+  <img alt="Chart.js" src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" width="40">
 </a>
 <a href="https://vuejs.org/">
   <img alt="Vuejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="40">
@@ -130,9 +133,9 @@ Here are some ideas to get you started:
 <!--a href="https://dart.dev/">
   <img alt="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40">
 </a>
-<!--a href="https://flutter.dev/">
-  <img alt="Flutter" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" width="40">
-</a-->
+<a href="https://flutter.dev/">
+  <img alt="Flutter" src="https://qtoof.academy/wp-content/uploads/2021/04/Google-flutter-logo-768x219.png" width="40">
+</a>
 <!--a href="https://fr.wikipedia.org/wiki/Xamarin">
   <img alt="Xamarin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" width="40">
 </a-->
@@ -155,7 +158,7 @@ Here are some ideas to get you started:
   <img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40">
 </a>
 <a href="https://mariadb.org/">
-  <img alt="MariaDB" src="https://camo.githubusercontent.com/28442265ca84bb599315850b867a8408bd1e41a460efa336454146c23fa70156/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6172696164622e706e67" width="40">
+  <img alt="MariaDB" src="https://miro.medium.com/v2/resize:fit:1090/1*4GVAymRjyRfr5hCs-EZTDA.png" width="40">
 </a>
 <a href="https://www.oracle.com/database/">
   <img alt="Oracle Database" src="https://media.licdn.com/dms/image/D5612AQGTzGGnu886Vw/article-cover_image-shrink_720_1280/0/1680581578662?e=2147483647&v=beta&t=Jc3XYEXXsZNfua5Dy96AX17G59H2LrEj4mcGb6rWt60" width="40">
