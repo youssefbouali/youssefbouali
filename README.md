@@ -157,6 +157,9 @@ Here are some ideas to get you started:
 <a href="https://webpack.js.org/">
   <img alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="40">
 </a>
+<a href="https://pugjs.org/">
+  <img alt="Pugjs" src="https://avatars.githubusercontent.com/u/9338635?s=200&v=4" width="40">
+</a>
 <a href="https://gulpjs.com/">
   <img alt="Gulp.js" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" width="25">
 </a>
