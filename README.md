@@ -260,8 +260,15 @@ Here are some ideas to get you started:
   <img alt="Nextcloud" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/2560px-Nextcloud_Logo.svg.png" width="40">
 </a>
 
+
 <a href="https://www.electronjs.org/">
   <img alt="Electronjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" width="40">
+</a>
+<a href="https://wiki.python.org/moin/PyQt">
+  <img alt="PyQt" src="https://miro.medium.com/v2/resize:fit:880/0*sMw5W3FPjhTJjSfB.png" width="55"/>
+</a>
+<a href="https://openjfx.io/">
+  <img alt="Java FX" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="55"/>
 </a>
 
 <a href="https://godotengine.org/">
