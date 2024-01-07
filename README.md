@@ -102,6 +102,13 @@ Here are some ideas to get you started:
 <a href="https://sass-lang.com/">
   <img alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40">
 </a>
+<a href="https://tailwindcss.com/">
+  <img alt="Tailwind CSS" src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4" width="40">
+</a>
+<a href="https://fontawesome.com/">
+  <img alt="Font Awesome" src="https://www.drupal.org/files/project-images/font_awesome_logo.png" width="40">
+</a>
+
 <a href="https://fr.wikipedia.org/wiki/Representational_state_transfer">
   <img alt="Rest API" src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" width="40">
 </a>
