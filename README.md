@@ -250,6 +250,10 @@ Here are some ideas to get you started:
 <a href="https://www.metasploit.com/">
   <img alt="Metasploit" src="https://pbs.twimg.com/media/D0cHe1PVsAApKKT.jpg" width="40">
 </a>
+<a href="https://www.maltego.com/">
+  <img alt="Maltego" src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20compact/Maltego-Logo-Compact-Greyblue.png" width="40">
+</a>
+
 <a href="https://sqlmap.org/">
   <img alt="Sqlmap" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40">
 </a>
