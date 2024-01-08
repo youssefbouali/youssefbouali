@@ -254,7 +254,13 @@ Here are some ideas to get you started:
 <a href="https://www.aircrack-ng.org/">
   <img alt="Aircrack-Ng" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng-new-logo.jpg" width="60">
 </a>
-<a href="https://www.ettercap-project.org/">
+<a href="https://hashcat.net/hashcat/">
+  <img alt="Hashcat" src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="40">
+</a>
+<a href="https://www.tcpdump.org/">
+  <img alt="tcpdump" src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" width="55">
+</a>
+<!--a href="https://www.ettercap-project.org/">
   <img alt="Ettercap" src="https://www.ettercap-project.org/logo.png" width="66">
 </a>
 <a href="https://www.openwall.com/john/">
@@ -262,7 +268,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.maltego.com/">
   <img alt="Maltego" src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20compact/Maltego-Logo-Compact-Greyblue.png" width="40">
-</a>
+</a-->
 
 <a href="https://sqlmap.org/">
   <img alt="Sqlmap" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40">
