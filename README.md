@@ -232,23 +232,33 @@ Here are some ideas to get you started:
 <a href="https://www.puppet.com/">
   <img alt="Puppet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Puppet_transparent_logo.svg/1200px-Puppet_transparent_logo.svg.png" width="60">
 </a>
-<a href="https://www.splunk.com/">
-  <img alt="Splunk" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" width="60">
-</a>
-<a href="https://www.tenable.com/products/nessus">
-  <img alt="Nessus" src="https://warlord0blog.files.wordpress.com/2016/10/nessus-logo-e1475580279964.png" width="60">
-</a>
 <a href="https://www.pfsense.org/">
   <img alt="Pfsense" src="https://autoformation.ma/store/1101/478-4782464_pfsense-square-logo-pfsense-logo-square-hd-png.png" width="40">
 </a>
 <a href="https://www.snort.org/">
   <img alt="Snort" src="https://all-it-network.com/wp-content/uploads/2017/10/ini_snort.png" width="60">
 </a>
+<a href="https://www.splunk.com/">
+  <img alt="Splunk" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" width="60">
+</a>
+<a href="https://www.tenable.com/products/nessus">
+  <img alt="Nessus" src="https://warlord0blog.files.wordpress.com/2016/10/nessus-logo-e1475580279964.png" width="60">
+</a>
 <a href="https://portswigger.net/burp">
   <img alt="Burp Suite" src="https://addons.mozilla.org/user-media/previews/full/242/242914.png?modified=1622135692" width="40">
 </a>
 <a href="https://www.metasploit.com/">
   <img alt="Metasploit" src="https://pbs.twimg.com/media/D0cHe1PVsAApKKT.jpg" width="40">
+</a>
+
+<a href="https://www.aircrack-ng.org/">
+  <img alt="Aircrack-Ng" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng-new-logo.jpg" width="60">
+</a>
+<a href="https://www.ettercap-project.org/">
+  <img alt="Ettercap" src="https://www.ettercap-project.org/logo.png" width="66">
+</a>
+<a href="https://www.openwall.com/john/">
+  <img alt="John the Ripper" src="https://miro.medium.com/v2/resize:fit:325/0*GJqVesB1TRqlSj_e.png" width="40">
 </a>
 <a href="https://www.maltego.com/">
   <img alt="Maltego" src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20compact/Maltego-Logo-Compact-Greyblue.png" width="40">
