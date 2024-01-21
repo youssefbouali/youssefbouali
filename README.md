@@ -274,6 +274,10 @@ Here are some ideas to get you started:
   <img alt="Sqlmap" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40">
 </a>
 
+<a href="https://en.wikipedia.org/wiki/X86_assembly_language">
+  <img alt="X86 Assembly Language" src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png" width="40">
+</a>
+
 <a href="https://www.arduino.cc/">
   <img alt="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="40">
 </a>
