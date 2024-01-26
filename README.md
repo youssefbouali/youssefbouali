@@ -344,7 +344,13 @@ Here are some ideas to get you started:
 **Languages and Technologies:**
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali)]([https://github.com/youssefbouali/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali))
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali&layout=compact&theme=transparent"
+  alt="lang stats">
+
+<img src="https://github-readme-stats.vercel.app/api?username=youssefbouali&show_icons=true&theme=transparent"
+  alt="stat">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbouali&theme=transparent" alt="Youssef-Bouali">
         </h3>
 <p float="left">
 
