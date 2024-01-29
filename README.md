@@ -121,6 +121,9 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/">
   <img alt="Reactjs" src="https://img.icons8.com/plasticine/48/000000/react.png" width="55">
 </a>
+<a href="https://nextjs.org/">
+  <img alt="Next.js" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="40">
+</a>
 <a href="https://angular.io/">
   <img alt="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="40">
 </a>
