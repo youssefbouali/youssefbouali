@@ -105,13 +105,7 @@ Here are some ideas to get you started:
 <a href="https://tailwindcss.com/">
   <img alt="Tailwind CSS" src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4" width="40">
 </a>
-<a href="https://fontawesome.com/">
-  <img alt="Font Awesome" src="https://www.drupal.org/files/project-images/font_awesome_logo.png" width="40">
-</a>
 
-<a href="https://fr.wikipedia.org/wiki/Representational_state_transfer">
-  <img alt="Rest API" src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" width="40">
-</a>
 <a href="https://www.chartjs.org/">
   <img alt="Chart.js" src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" width="40">
 </a>
@@ -160,16 +154,10 @@ Here are some ideas to get you started:
 <a href="https://webpack.js.org/">
   <img alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="40">
 </a>
-<a href="https://pugjs.org/">
-  <img alt="Pugjs" src="https://avatars.githubusercontent.com/u/9338635?s=200&v=4" width="40">
-</a>
 <a href="https://gulpjs.com/">
   <img alt="Gulp.js" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" width="25">
 </a>
 
-<a href="https://www.mongodb.com/">
-  <img alt="Mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="55">
-</a>
 <a href="https://www.postgresql.org/">
   <img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40">
 </a>
@@ -223,7 +211,7 @@ Here are some ideas to get you started:
   <img alt="Openstack" src="https://www.smile.eu/sites/default/files/styles/picture_news_technology/public/2017-08/Openstack.png" width="40">
 </a>
 <a href="https://cloudstack.apache.org/">
-  <img alt="Cloudstack" src="https://cloudstack.apache.org/images/monkey.png" width="40">
+  <img alt="Cloudstack" src="https://static-00.iconduck.com/assets.00/apache-cloudstack-icon-512x414-fhjwxb8z.png" width="40">
 </a>
   
 <a href="https://vyos.io/">
@@ -378,8 +366,14 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/CSS3">
   <img alt="CSS3" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
 </a>
+<a href="https://fontawesome.com/">
+  <img alt="Font Awesome" src="https://www.drupal.org/files/project-images/font_awesome_logo.png" width="40">
+</a>
 <a href="https://jquery.com/">
   <img alt="Jquery" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" width="40">
+</a>
+<a href="https://fr.wikipedia.org/wiki/Representational_state_transfer">
+  <img alt="Rest API" src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" width="40">
 </a>
 <a href="https://en.wikipedia.org/wiki/Progressive_web_application">
   <img alt="Progressive web application" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" width="40">
@@ -392,6 +386,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://expressjs.com/">
   <img alt="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40">
+</a>
+<a href="https://pugjs.org/">
+  <img alt="Pugjs" src="https://avatars.githubusercontent.com/u/9338635?s=200&v=4" width="40">
 </a>
 
 <a href="https://jakarta.ee/">
@@ -437,6 +434,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.mysql.com/">
   <img alt="Mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="55">
+</a>
+<a href="https://www.mongodb.com/">
+  <img alt="Mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="55">
 </a>
 
 <br />
