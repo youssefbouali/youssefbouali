@@ -157,6 +157,9 @@ Here are some ideas to get you started:
 <a href="https://webpack.js.org/">
   <img alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="40">
 </a>
+<a href="https://babeljs.io/">
+  <img alt="Babel.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" width="40">
+</a>
 <a href="https://gulpjs.com/">
   <img alt="Gulp.js" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" width="25">
 </a>
@@ -232,9 +235,9 @@ Here are some ideas to get you started:
 <a href="https://www.snort.org/">
   <img alt="Snort" src="https://all-it-network.com/wp-content/uploads/2017/10/ini_snort.png" width="60">
 </a>
-<a href="https://www.splunk.com/">
+<!--a href="https://www.splunk.com/">
   <img alt="Splunk" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" width="60">
-</a>
+</a-->
 <a href="https://www.tenable.com/products/nessus">
   <img alt="Nessus" src="https://warlord0blog.files.wordpress.com/2016/10/nessus-logo-e1475580279964.png" width="60">
 </a>
@@ -248,21 +251,21 @@ Here are some ideas to get you started:
 <a href="https://www.aircrack-ng.org/">
   <img alt="Aircrack-Ng" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng-new-logo.jpg" width="60">
 </a>
-<a href="https://hashcat.net/hashcat/">
-  <img alt="Hashcat" src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="40">
+<a href="https://www.ettercap-project.org/">
+  <img alt="Ettercap" src="https://www.ettercap-project.org/logo.png" width="66">
 </a>
 <a href="https://www.tcpdump.org/">
   <img alt="tcpdump" src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" width="55">
 </a>
-<!--a href="https://www.ettercap-project.org/">
-  <img alt="Ettercap" src="https://www.ettercap-project.org/logo.png" width="66">
-</a>
-<a href="https://www.openwall.com/john/">
+<!--a href="https://www.openwall.com/john/">
   <img alt="John the Ripper" src="https://miro.medium.com/v2/resize:fit:325/0*GJqVesB1TRqlSj_e.png" width="40">
 </a>
 <a href="https://www.maltego.com/">
   <img alt="Maltego" src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20compact/Maltego-Logo-Compact-Greyblue.png" width="40">
 </a-->
+<a href="https://hashcat.net/hashcat/">
+  <img alt="Hashcat" src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="40">
+</a>
 
 <a href="https://sqlmap.org/">
   <img alt="Sqlmap" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40">
