@@ -96,6 +96,9 @@ Here are some ideas to get you started:
 <a href="https://symfony.com/">
   <img alt="Symfony" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" width="40">
 </a>
+<a href="https://getcomposer.org/">
+  <img alt="Composer" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" width="40">
+</a>
 <a href="https://getbootstrap.com/">
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40">
 </a>
@@ -459,8 +462,14 @@ Here are some ideas to get you started:
 <a href="https://subgraph.com/vega/">
   <img alt="Vega Security" src="https://securityonline.info/wp-content/uploads/2017/04/vega-transparent.png" width="60">
 </a>
+<a href="https://www.postman.com/">
+  <img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40">
+</a>
+<a href="https://www.eclipse.org/">
+  <img alt="Eclipse" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="40">
+</a>
 <a href="https://code.visualstudio.com/">
-  <img alt="Visualstudio" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+  <img alt="VisualStudio Code" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
 </a>
 <a href="https://www.virtualbox.org/">
   <img alt="VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40">
