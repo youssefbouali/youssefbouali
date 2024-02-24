@@ -214,19 +214,10 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/powerpoint">
   <img alt="PowerPoint" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" width="40">
 </a>
-
-<br/>
-<br/>
-
+        
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali&layout=compact&theme=transparent"
   alt="lang stats">
-
-<img src="https://github-readme-stats.vercel.app/api?username=youssefbouali&show_icons=true&theme=transparent"
-  alt="stat">
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbouali&theme=transparent" alt="Youssef-Bouali">
-        
 
 
 **I’m currently learning:**
@@ -302,6 +293,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://nextjs.org/">
   <img alt="Next.js" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="40">
+</a>
+<a href="https://nestjs.com/">
+  <img alt="NestJS" src="https://nestjs.com/img/logo-small.svg" width="40">
 </a>
 <a href="https://redis.io/">
   <img alt="Redis" src="https://grafikart.fr/uploads/icons/redis.svg" width="40">
@@ -539,6 +533,15 @@ Here are some ideas to get you started:
 <a href="https://ethereum.org/">
   <img alt="Ethereum" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" width="40">
 </a>
+
+<br/>
+<br/>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=youssefbouali&show_icons=true&theme=transparent"
+  alt="stat">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbouali&theme=transparent" alt="Youssef-Bouali">
 
 </p>
 
