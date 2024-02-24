@@ -75,20 +75,23 @@ Here are some ideas to get you started:
 <a href="https://rubyonrails.org/">
   <img alt="Rails" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" width="40"/>
 </a>
-<a href="https://spring.io/projects/spring-boot">
-  <img alt="Spring Bot" src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" width="40">
-</a>
-<!--a href="https://spring.io/">
-  <img alt="Spring" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" width="40"/>
-</a-->
 <a href="https://www.djangoproject.com/">
   <img alt="Django" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="55"/>
 </a>
 <a href="https://flask.palletsprojects.com/">
   <img alt="Flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="55"/>
 </a>
-<a href="https://www.nginx.com/">
-  <img alt="Nginx" src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="55"/>
+<a href="https://spring.io/projects/spring-boot">
+  <img alt="Spring Bot" src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" width="40">
+</a>
+<!--a href="https://spring.io/">
+  <img alt="Spring" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" width="40"/>
+</a-->
+<a href="https://hibernate.org/">
+  <img alt="Hibernate" src="https://lh3.googleusercontent.com/proxy/dm6HwmqQWJ3w23CRVq-SS2Q4qp0BX5k7Ft4ZZZammzljmOr6zP8WtM9XavDeQEKFmHlannUyy4MkRQzI1MgNmT8Gq58Xpg8RXWQ37NnJIoagtQp_Wb6OMVyE_7Y" width="35">
+</a>
+<a href="https://www.jenkins.io/">
+  <img alt="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="35">
 </a>
 
 <a href="https://laravel.com/">
@@ -100,11 +103,33 @@ Here are some ideas to get you started:
 <a href="https://getcomposer.org/">
   <img alt="Composer" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" width="40">
 </a>
-<a href="https://getbootstrap.com/">
-  <img alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40">
+<a href="https://www.nginx.com/">
+  <img alt="Nginx" src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="55"/>
+</a>
+<a href="https://nextjs.org/">
+  <img alt="Next.js" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="40">
+</a>
+<a href="https://redis.io/">
+  <img alt="Redis" src="https://grafikart.fr/uploads/icons/redis.svg" width="40">
+</a>
+<a href="https://webpack.js.org/">
+  <img alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="40">
+</a>
+<a href="https://babeljs.io/">
+  <img alt="Babel.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" width="40">
+</a>
+<a href="https://gulpjs.com/">
+  <img alt="Gulp.js" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" width="25">
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img alt="Typescript" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
 </a>
 <a href="https://sass-lang.com/">
   <img alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40">
+</a>
+
+<a href="https://getbootstrap.com/">
+  <img alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40">
 </a>
 <a href="https://tailwindcss.com/">
   <img alt="Tailwind CSS" src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4" width="40">
@@ -113,18 +138,16 @@ Here are some ideas to get you started:
 <a href="https://www.chartjs.org/">
   <img alt="Chart.js" src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" width="40">
 </a>
+<a href="https://reactjs.org/">
+  <img alt="Reactjs" src="https://img.icons8.com/plasticine/48/000000/react.png" width="40">
+</a>
 <a href="https://vuejs.org/">
   <img alt="Vuejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="40">
-</a>
-<a href="https://reactjs.org/">
-  <img alt="Reactjs" src="https://img.icons8.com/plasticine/48/000000/react.png" width="55">
-</a>
-<a href="https://nextjs.org/">
-  <img alt="Next.js" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="40">
 </a>
 <a href="https://angular.io/">
   <img alt="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="40">
 </a>
+
 <a href="https://nativescript.org/">
   <img alt="Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nativescript/nativescript.png" width="40">
 </a>
@@ -151,19 +174,6 @@ Here are some ideas to get you started:
 <!--a href="https://go.dev/">
   <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40">
 </a-->
-
-<a href="https://www.typescriptlang.org/">
-  <img alt="Typescript" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
-</a>
-<a href="https://webpack.js.org/">
-  <img alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="40">
-</a>
-<a href="https://babeljs.io/">
-  <img alt="Babel.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" width="40">
-</a>
-<a href="https://gulpjs.com/">
-  <img alt="Gulp.js" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" width="25">
-</a>
 
 <a href="https://www.postgresql.org/">
   <img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40">
@@ -288,11 +298,23 @@ Here are some ideas to get you started:
 <a href="https://wordpress.org/">
   <img alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/wordpress/wordpress.png" width="40">
 </a>
+<a href="https://www.figma.com/">
+  <img alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="30">
+</a>
+<a href="https://adobe.com/xd">
+  <img alt="Adobe XD" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40">
+</a>
+<a href="https://staruml.io/">
+  <img alt="StarUML" src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" width="40">
+</a>
 <a href="https://owncloud.com/">
   <img alt="Owncloud" src="https://www.heise.de/download/media/owncloud-85372/owncloud-logo1_1-1-30.png" width="40">
 </a>
 <a href="https://nextcloud.com/">
   <img alt="Nextcloud" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/2560px-Nextcloud_Logo.svg.png" width="40">
+</a>
+<a href="https://about.gitlab.com/">
+  <img alt="GitLab" src="https://cdn.cookielaw.org/logos/aa14a5c8-79e3-442a-8177-464ad850b19d/e46c1d0d-1f66-481f-bc06-5427671431da/253e6fee-c4c0-4b60-bc35-79cdae5dda32/gitlab-logo-100.png" width="60">
 </a>
 
 
@@ -442,6 +464,9 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/">
   <img alt="Mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="55">
 </a>
+<!--a href="https://www.phpmyadmin.net/">
+  <img alt="phpMyAdmin" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" width="55">
+</a-->
 <a href="https://www.mongodb.com/">
   <img alt="Mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="55">
 </a>
