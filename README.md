@@ -273,7 +273,7 @@ Here are some ideas to get you started:
   <img alt="Maven" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png" width="55">
 </a>
 <a href="https://hibernate.org/">
-  <img alt="Hibernate" src="https://lh3.googleusercontent.com/proxy/dm6HwmqQWJ3w23CRVq-SS2Q4qp0BX5k7Ft4ZZZammzljmOr6zP8WtM9XavDeQEKFmHlannUyy4MkRQzI1MgNmT8Gq58Xpg8RXWQ37NnJIoagtQp_Wb6OMVyE_7Y" width="35">
+  <img alt="Hibernate" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" width="35">
 </a>
 <a href="https://www.jenkins.io/">
   <img alt="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="35">
