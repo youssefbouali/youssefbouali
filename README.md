@@ -96,6 +96,9 @@ Here are some ideas to get you started:
 <a href="https://jakarta.ee/">
   <img alt="JakartaEE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg/800px-Jakarta_ee_logo_schooner_color_stacked_default.svg.png" width="40">
 </a>
+<a href="https://tomcat.apache.org/">
+  <img alt="Apache Tomcat" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png" width="40">
+</a>
 
 
 <a href="https://en.wikipedia.org/wiki/Linux">
@@ -176,6 +179,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.postman.com/">
   <img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40">
+</a>
+<a href="https://www.ganttproject.biz/">
+  <img alt="GanttProject" src="https://scontent.frak1-1.fna.fbcdn.net/v/t39.30808-6/308515417_481046997374979_2282512110618910867_n.png?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFb5PiZOJbUDnFhgOuHielOwx-9b7KtYJ3DH71vsq1gnXcDjDaHb4a6B4nqlDhl_W-geMSjChllg92HGUDV6sUy&_nc_ohc=Kf9tLMFpDL4AX89PDUB&_nc_ht=scontent.frak1-1.fna&oh=00_AfAoykKmf61rDuxOu7tN7--MpKz4DYYcmGlD6zVmwH4iKQ&oe=65E5C1A7" width="40">
 </a>
 <a href="https://www.eclipse.org/">
   <img alt="Eclipse" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="40">
