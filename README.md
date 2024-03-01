@@ -318,6 +318,9 @@ Here are some ideas to get you started:
 <a href="https://gulpjs.com/">
   <img alt="Gulp.js" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" width="25">
 </a>
+<a href="https://gruntjs.com/">
+  <img alt="Grunt" src="https://gruntjs.com/img/og.png" width="40">
+</a>
 <a href="https://www.typescriptlang.org/">
   <img alt="Typescript" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
 </a>
