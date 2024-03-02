@@ -467,6 +467,12 @@ Here are some ideas to get you started:
 <a href="https://www.tcpdump.org/">
   <img alt="tcpdump" src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" width="55">
 </a>
+<a href="https://github.com/sullo/nikto">
+  <img alt="Nikto" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="40">
+</a>
+<a href="https://www.kali.org/tools/hydra/">
+  <img alt="Hydra" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40">
+</a>
 <!--a href="https://www.openwall.com/john/">
   <img alt="John the Ripper" src="https://miro.medium.com/v2/resize:fit:325/0*GJqVesB1TRqlSj_e.png" width="40">
 </a>
