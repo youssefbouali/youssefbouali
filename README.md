@@ -141,7 +141,7 @@ Here are some ideas to get you started:
   <img alt="Merise" src="http://www.jfreesoft.com/JMerise/images/JMeriseLogoPetit.png" width="40">
 </a>
 <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language">
-  <img alt="UML" src="https://www.opennn.net/documentation/images/uml_logo.png" width="40">
+  <img alt="UML" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" width="40">
 </a>
 
 <a href="https://en.wikipedia.org/wiki/SQL">
