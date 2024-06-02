@@ -295,7 +295,7 @@ Here are some ideas to get you started:
   <img alt="Composer" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" width="40">
 </a>
 <a href="https://www.nginx.com/">
-  <img alt="Nginx" src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="55"/>
+  <img alt="Nginx" src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png" width="40"/>
 </a>
 <a href="https://nextjs.org/">
   <img alt="Next.js" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="40">
