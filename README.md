@@ -59,6 +59,12 @@ Here are some ideas to get you started:
 <a href="https://www.php.net/">
   <img alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="50">
 </a>
+<a href="https://getcomposer.org/">
+  <img alt="Composer" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" width="40">
+</a>
+<a href="https://phpunit.de/index.html">
+  <img alt="PHPUnit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PHPUnit_Logo.svg/1200px-PHPUnit_Logo.svg.png" width="55">
+</a>
 <a href="https://www.javascript.com/">
   <img alt="Javascript"  src="https://img.icons8.com/color/48/000000/javascript.png" width="40">
 </a>
@@ -100,6 +106,9 @@ Here are some ideas to get you started:
   <img alt="Apache Tomcat" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png" width="40">
 </a>
 
+<a href="https://swagger.io/">
+  <img alt="Swagger" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="40">
+</a>
 
 <a href="https://en.wikipedia.org/wiki/Linux">
   <img alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40">
@@ -115,9 +124,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/">
   <img alt="Github" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40">
 </a>
-<!--a href="https://gitlab.com/">
+<a href="https://gitlab.com/">
   <img alt="Gitlab" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png" width="40">
-</a-->
+</a>
 
 <a href="https://www.microsoft.com/en-us/windows-server">
   <img alt="Windows Server" src="https://img2.freepng.fr/20180920/fol/kisspng-windows-server-2-12-logo-organization-brand-windows-server-5ba39cd715d540.3534964615374491750894.jpg" width="40">
@@ -291,9 +300,6 @@ Here are some ideas to get you started:
 <a href="https://symfony.com/">
   <img alt="Symfony" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" width="40">
 </a>
-<a href="https://getcomposer.org/">
-  <img alt="Composer" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" width="40">
-</a>
 <a href="https://www.nginx.com/">
   <img alt="Nginx" src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png" width="40"/>
 </a>
@@ -305,9 +311,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://redis.io/">
   <img alt="Redis" src="https://grafikart.fr/uploads/icons/redis.svg" width="40">
-</a>
-<a href="https://swagger.io/">
-  <img alt="Swagger" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="40">
 </a>
 <a href="https://webpack.js.org/">
   <img alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="40">
