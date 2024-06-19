@@ -341,6 +341,12 @@ Here are some ideas to get you started:
 <a href="https://www.chartjs.org/">
   <img alt="Chart.js" src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" width="40">
 </a>
+<a href="https://github.com/react-icons/react-icons">
+  <img alt="React Icons" src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="40">
+</a>
+<a href="https://vitejs.dev/">
+  <img alt="Vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="40">
+</a>
 <a href="https://reactjs.org/">
   <img alt="Reactjs" src="https://img.icons8.com/plasticine/48/000000/react.png" width="40">
 </a>
@@ -363,6 +369,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://kotlinlang.org/">
   <img alt="Kotlin" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
+</a>
+<a href="https://firebase.google.com/">
+  <img alt="Firebase" src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="40">
 </a>
 <!--a href="https://dart.dev/">
   <img alt="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40">
