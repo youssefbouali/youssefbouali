@@ -530,9 +530,6 @@ Here are some ideas to get you started:
 <a href="https://nextcloud.com/">
   <img alt="Nextcloud" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/2560px-Nextcloud_Logo.svg.png" width="40">
 </a>
-<a href="https://about.gitlab.com/">
-  <img alt="GitLab" src="https://cdn.cookielaw.org/logos/aa14a5c8-79e3-442a-8177-464ad850b19d/e46c1d0d-1f66-481f-bc06-5427671431da/253e6fee-c4c0-4b60-bc35-79cdae5dda32/gitlab-logo-100.png" width="60">
-</a>
 
 
 <a href="https://www.electronjs.org/">
