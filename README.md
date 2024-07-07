@@ -147,6 +147,9 @@ Here are some ideas to get you started:
 <a href="https://www.openldap.org/">
   <img alt="OpenLDAP" src="https://avatars.githubusercontent.com/u/12108639?s=200&v=4" width="40">
 </a>
+<a href="https://www.samba.org/">
+  <img alt="Samba" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Samba_logo_2010.svg/1280px-Samba_logo_2010.svg.png" width="60">
+</a>
 
 <a href="http://www.squid-cache.org/">
   <img alt="Squid Proxy" src="https://upload.wikimedia.org/wikipedia/fr/b/b7/Squid-cache_logo.jpg" width="40">
@@ -336,6 +339,9 @@ Here are some ideas to get you started:
 <a href="https://www.typescriptlang.org/">
   <img alt="Typescript" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
 </a>
+<a href="https://jestjs.io/">
+  <img alt="Jest" src="https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png" width="40">
+</a>
 <a href="https://sass-lang.com/">
   <img alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40">
 </a>
@@ -484,6 +490,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.kali.org/tools/hydra/">
   <img alt="Hydra" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40">
+</a>
+<a href="https://ghidra-sre.org/">
+  <img alt="Ghidra" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png" width="40">
 </a>
 <!--a href="https://www.openwall.com/john/">
   <img alt="John the Ripper" src="https://miro.medium.com/v2/resize:fit:325/0*GJqVesB1TRqlSj_e.png" width="40">
