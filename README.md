@@ -436,7 +436,7 @@ Here are some ideas to get you started:
   <img alt="Microsoft Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/800px-Microsoft_Azure.svg.png" width="40">
 </a>
 <a href="https://www.openstack.org/">
-  <img alt="Openstack" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/OpenStack%C2%AE_Logo_2016_icon_square.svg/1200px-OpenStack%C2%AE_Logo_2016_icon_square.svg.png" width="40">
+  <img alt="Openstack" src="https://avatars.githubusercontent.com/u/324574" width="40">
 </a>
 <a href="https://cloudstack.apache.org/">
   <img alt="Cloudstack" src="https://static-00.iconduck.com/assets.00/apache-cloudstack-icon-512x414-fhjwxb8z.png" width="40">
