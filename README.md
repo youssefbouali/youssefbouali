@@ -195,9 +195,9 @@ Here are some ideas to get you started:
 <a href="https://nmap.org/">
   <img alt="Nmap" src="https://avatars.githubusercontent.com/u/63385?s=200&v=4" width="40">
 </a>
-<a href="https://subgraph.com/vega/">
+<!--a href="https://subgraph.com/vega/">
   <img alt="Vega Security" src="https://securityonline.info/wp-content/uploads/2017/04/vega-transparent.png" width="60">
-</a>
+</a-->
 <a href="https://www.postman.com/">
   <img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40">
 </a>
