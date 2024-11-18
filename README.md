@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🎓 I'm Studying Information Technology
+- 🎓 I'm Studying Computer Science
 - 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning Java
 - 💼 Personal Portfolio bouali.wsoum.eu.org
