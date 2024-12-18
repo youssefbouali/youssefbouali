@@ -568,6 +568,9 @@ Here are some ideas to get you started:
 <a href="https://numpy.org">
 <img alt="Numpy" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="60">
 </a>
+<a href="https://pandas.pydata.org">
+<img alt="Pandas" src="https://img.icons8.com/dusk/100/000000/anaconda.png" width="40">
+</a>
 <a href="https://opencv.org/">
   <img alt="OpenCV" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" width="40">
 </a>
