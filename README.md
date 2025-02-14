@@ -289,6 +289,9 @@ Here are some ideas to get you started:
 <a href="https://symfony.com/">
 <img alt="Symfony" src="images/symfony.png" width="40"/>
 </a>
+<a href="https://codeigniter.com/">
+<img alt="CodeIgniter" src="images/codeigniter.png" width="40"/>
+</a>
 <a href="https://www.nginx.com/">
 <img alt="Nginx" src="images/Nginx-Logo-02.png" width="40">
 </img></a>
@@ -526,6 +529,12 @@ Here are some ideas to get you started:
 </a>
 <a href="https://pandas.pydata.org">
 <img alt="Pandas" src="images/anaconda.png" width="40"/>
+</a>
+<a href="https://www.selenium.dev/">
+<img alt="Selenium" src="images/selenium.png" width="40"/>
+</a>
+<a href="https://matplotlib.org/">
+<img alt="Matplotlib" src="images/matplotlib.png" width="40"/>
 </a>
 <a href="https://opencv.org/">
 <img alt="OpenCV" src="images/opencv.png" width="40"/>
