@@ -47,25 +47,25 @@ Here are some ideas to get you started:
 <img alt="Python" src="images/python.png" width="55"/>
 </a>
 <a href="https://www.java.com/">
-<img alt="Java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40"/>
+<img alt="Java" src="images/java.png" width="40"/>
 </a>
 <a href="https://www.php.net/">
 <img alt="PHP" src="images/php.png" width="50"/>
 </a>
 <a href="https://getcomposer.org/">
-<img alt="Composer" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" width="40"/>
+<img alt="Composer" src="images/composer.png" width="40"/>
 </a>
 <a href="https://phpunit.de/index.html">
-<img alt="PHPUnit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PHPUnit_Logo.svg/1200px-PHPUnit_Logo.svg.png" width="55"/>
+<img alt="PHPUnit" src="images/phpunit.png" width="55"/>
 </a>
 <a href="https://www.javascript.com/">
 <img alt="Javascript" src="images/javascript.png" width="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="HTML" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40"/>
+<img alt="HTML" src="images/html.png" width="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/CSS3">
-<img alt="CSS3" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40"/>
+<img alt="CSS3" src="images/css.png" width="40"/>
 </a>
 <a href="https://fontawesome.com/">
 <img alt="Font Awesome" src="images/font_awesome_logo.png" width="40"/>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <img alt="Progressive web application" src="images/pwa.png" width="40"/>
 </a>
 <a href="https://nodejs.org/en/">
-<img alt="Nodejs" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40"/>
+<img alt="Nodejs" src="images/nodejs.png" width="40"/>
 </a>
 <a href="https://www.npmjs.com/">
 <img alt="NPM" src="images/npm.png" width="40"/>
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 <img alt="Pugjs" src="images/9338635" width="40"/>
 </a>
 <a href="https://vitejs.dev/">
-<img alt="Vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="40"/>
+<img alt="Vite" src="images/vitejs.png" width="40"/>
 </a>
 <a href="https://reactjs.org/">
 <img alt="Reactjs" src="images/react.png" width="40"/>
@@ -101,10 +101,10 @@ Here are some ideas to get you started:
 <img alt="React Icons" src="images/react-icons.svg" width="40"/>
 </a>
 <a href="https://jakarta.ee/">
-<img alt="JakartaEE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg/800px-Jakarta_ee_logo_schooner_color_stacked_default.svg.png" width="40"/>
+<img alt="JakartaEE" src="images/jakarta.png" width="40"/>
 </a>
 <a href="https://tomcat.apache.org/">
-<img alt="Apache Tomcat" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png" width="40"/>
+<img alt="Apache Tomcat" src="images/tomcat.png" width="40"/>
 </a>
 <a href="https://swagger.io/">
 <img alt="Swagger" src="images/Swagger-logo.png" width="40"/>
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 <img alt="Linux" src="images/linux.png" width="40"/>
 </a>
 <a href="https://httpd.apache.org/">
-<img alt="Apache" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/1200px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="55"/>
+<img alt="Apache" src="images/apache.png" width="55"/>
 </a>
 <a href="https://git-scm.com/">
 <img alt="Git" src="images/git.png" width="55"/>
@@ -134,10 +134,10 @@ Here are some ideas to get you started:
 <img alt="OpenLDAP" src="images/12108639" width="40"/>
 </a>
 <a href="https://www.samba.org/">
-<img alt="Samba" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Samba_logo_2010.svg/1280px-Samba_logo_2010.svg.png" width="60"/>
+<img alt="Samba" src="images/samba.png" width="60"/>
 </a>
 <a href="http://www.squid-cache.org/">
-<img alt="Squid Proxy" src="https://upload.wikimedia.org/wikipedia/fr/b/b7/Squid-cache_logo.jpg" width="40"/>
+<img alt="Squid Proxy" src="images/squid.jpg" width="40"/>
 </a>
 <a href="https://openvpn.net/">
 <img alt="OpenVpn" src="images/E9DIOxBPab_nMUfmf2fhzNcEAmjOx-wstIak5zwJpZm7184nd8fUPGBeWMvBMnkOHg" width="40"/>
@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 <img alt="Merise" src="images/JMeriseLogoPetit.png" width="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language">
-<img alt="UML" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" width="40"/>
+<img alt="UML" src="images/UML.svg" width="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL">
 <img alt="SQL" src="images/sql.png" width="40"/>
@@ -165,7 +165,7 @@ Here are some ideas to get you started:
 <img alt="Packet Tracer" src="images/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28:200" width="40"/>
 </a>
 <a href="https://www.gns3.com/">
-<img alt="GNS3" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="40"/>
+<img alt="GNS3" src="images/gns3.png" width="40"/>
 </a>
 <a href="https://www.wireshark.org/">
 <img alt="Wireshark" src="images/1200px-Wireshark_icon.svg.png" width="40"/>
@@ -189,7 +189,7 @@ Here are some ideas to get you started:
 <img alt="Eclipse" src="images/eclipse-11.svg" width="40"/>
 </a>
 <a href="https://code.visualstudio.com/">
-<img alt="VisualStudio Code" src="https://devstickers.com/assets/img/pro/saxu.png" width="40"/>
+<img alt="VisualStudio Code" src="images/visualstudio.png" width="40"/>
 </a>
 <a href="https://www.virtualbox.org/">
 <img alt="VirtualBox" src="images/Virtualbox_logo.png" width="40"/>
@@ -213,13 +213,13 @@ Here are some ideas to get you started:
 <img alt="Indesign" src="images/indesign.svg" width="40"/>
 </a>
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/word">
-<img alt="Word" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/782px-Microsoft_Word_2013-2019_logo.svg.png" width="40"/>
+<img alt="Word" src="images/word.png" width="40"/>
 </a>
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel">
-<img alt="Exel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" width="40"/>
+<img alt="Exel" src="images/excel.png" width="40"/>
 </a>
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/powerpoint">
-<img alt="PowerPoint" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" width="40"/>
+<img alt="PowerPoint" src="images/powerpoint.png" width="40"/>
 </a>
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali&amp;layout=compact&amp;theme=transparent"/>
 
@@ -272,7 +272,7 @@ Here are some ideas to get you started:
   <img alt="Spring" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" width="40"/>
 </a-->
 <a href="https://maven.apache.org/">
-<img alt="Maven" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png" width="55"/>
+<img alt="Maven" src="images/maven.png" width="55"/>
 </a>
 <a href="https://hibernate.org/">
 <img alt="Hibernate" src="images/hibernate_icon_whitebkg.svg" width="35"/>
@@ -302,7 +302,7 @@ Here are some ideas to get you started:
 <img alt="Webpack" src="images/webpack.png" width="40"/>
 </a>
 <a href="https://babeljs.io/">
-<img alt="Babel.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" width="40"/>
+<img alt="Babel.js" src="images/babel.png" width="40"/>
 </a>
 <a href="https://gulpjs.com/">
 <img alt="Gulp.js" src="images/gulp-2x.png" width="25"/>
@@ -311,10 +311,10 @@ Here are some ideas to get you started:
 <img alt="Grunt" src="images/og.png" width="40"/>
 </a>
 <a href="https://www.typescriptlang.org/">
-<img alt="Typescript" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40"/>
+<img alt="Typescript" src="images/typescript.png" width="40"/>
 </a>
 <a href="https://jestjs.io/">
-<img alt="Jest" src="https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png" width="40"/>
+<img alt="Jest" src="images/jest.png" width="40"/>
 </a>
 <a href="https://sass-lang.com/">
 <img alt="Sass" src="images/sass.png" width="40"/>
@@ -341,13 +341,13 @@ Here are some ideas to get you started:
 <img alt="Ionic" src="images/logo.png" width="40"/>
 </a>
 <a href="https://www.android.com/">
-<img alt="Android" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40"/>
+<img alt="Android" src="images/android.png" width="40"/>
 </a>
 <a href="https://kotlinlang.org/">
-<img alt="Kotlin" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40"/>
+<img alt="Kotlin" src="images/kotlin.png" width="40"/>
 </a>
 <a href="https://firebase.google.com/">
-<img alt="Firebase" src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="40"/>
+<img alt="Firebase" src="images/firebase.png" width="40"/>
 </a>
 <!--a href="https://dart.dev/">
   <img alt="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40">
@@ -365,7 +365,7 @@ Here are some ideas to get you started:
 <img alt="PostgreSQL" src="images/postgresql.png" width="40"/>
 </a>
 <a href="https://mariadb.org/">
-<img alt="MariaDB" src="https://miro.medium.com/v2/resize:fit:1090/1*4GVAymRjyRfr5hCs-EZTDA.png" width="40"/>
+<img alt="MariaDB" src="images/mariadb.png" width="40"/>
 </a>
 <a href="https://www.oracle.com/database/">
 <img alt="Oracle Database" src="images/1680581578662" width="40"/>
@@ -389,10 +389,10 @@ Here are some ideas to get you started:
 <img alt="Proxmox" src="images/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs" width="40"/>
 </a>
 <a href="https://www.qemu.org/">
-<img alt="Qemu" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" width="40"/>
+<img alt="Qemu" src="images/qemu.png" width="40"/>
 </a>
 <a href="https://www.vmware.com/products/esxi-and-esx.html">
-<img alt="VMware ESXi" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png" width="40"/>
+<img alt="VMware ESXi" src="images/esxi.png" width="40"/>
 </a>
 <a href="https://fr.wikipedia.org/wiki/Hyper-V">
 <img alt="Hyper-V" src="images/457930.png" width="40"/>
@@ -407,13 +407,13 @@ Here are some ideas to get you started:
 <img alt="Cloudstack" src="images/apache-cloudstack-icon-512x414-fhjwxb8z.png" width="40"/>
 </a>
 <a href="https://www.ansible.com/">
-<img alt="Ansible" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" width="40"/>
+<img alt="Ansible" src="images/ansible.png" width="40"/>
 </a>
 <a href="https://www.puppet.com/">
-<img alt="Puppet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Puppet_transparent_logo.svg/1200px-Puppet_transparent_logo.svg.png" width="60"/>
+<img alt="Puppet" src="images/puppet.png" width="60"/>
 </a>
 <a href="https://www.postfix.org/">
-<img alt="Postfix" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Postfix-logo.svg/2560px-Postfix-logo.svg.png" width="40"/>
+<img alt="Postfix" src="images/postfix.png" width="40"/>
 </a>
 <a href="https://vyos.io/">
 <img alt="VyOS" src="images/5647000" width="40"/>
@@ -440,7 +440,7 @@ Here are some ideas to get you started:
 <img alt="Metasploit" src="images/D0cHe1PVsAApKKT.jpg" width="40"/>
 </a>
 <a href="https://www.aircrack-ng.org/">
-<img alt="Aircrack-Ng" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng-new-logo.jpg" width="60"/>
+<img alt="Aircrack-Ng" src="images/aircrack-ng.jpg" width="60"/>
 </a>
 <a href="https://www.ettercap-project.org/">
 <img alt="Ettercap" src="images/logo.png" width="66"/>
@@ -455,7 +455,7 @@ Here are some ideas to get you started:
 <img alt="Hydra" src="images/hydra-logo.svg" width="40"/>
 </a>
 <a href="https://ghidra-sre.org/">
-<img alt="Ghidra" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png" width="40"/>
+<img alt="Ghidra" src="images/ghidra.png" width="40"/>
 </a>
 <!--a href="https://www.openwall.com/john/">
   <img alt="John the Ripper" src="https://miro.medium.com/v2/resize:fit:325/0*GJqVesB1TRqlSj_e.png" width="40">
@@ -486,7 +486,7 @@ Here are some ideas to get you started:
 <img alt="Figma" src="images/Figma-logo.svg" width="30"/>
 </a>
 <a href="https://adobe.com/xd">
-<img alt="Adobe XD" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40"/>
+<img alt="Adobe XD" src="images/xd.svg width="40"/>
 </a>
 <a href="https://staruml.io/">
 <img alt="StarUML" src="images/Staruml_logo.png" width="40"/>
@@ -495,16 +495,16 @@ Here are some ideas to get you started:
 <img alt="Owncloud" src="images/owncloud-logo1_1-1-30.png" width="40"/>
 </a>
 <a href="https://nextcloud.com/">
-<img alt="Nextcloud" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/2560px-Nextcloud_Logo.svg.png" width="40"/>
+<img alt="Nextcloud" src="images/nextcloud.png" width="40"/>
 </a>
 <a href="https://www.electronjs.org/">
 <img alt="Electronjs" src="images/electron.png" width="40"/>
 </a>
 <a href="https://wiki.python.org/moin/PyQt">
-<img alt="PyQt" src="https://miro.medium.com/v2/resize:fit:880/0*sMw5W3FPjhTJjSfB.png" width="55">
+<img alt="PyQt" src="images/pyqt.png" width="55">
 </img></a>
 <a href="https://openjfx.io/">
-<img alt="Java FX" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="55">
+<img alt="Java FX" src="images/javafx.png" width="55">
 </img></a>
 <a href="https://godotengine.org/">
 <img alt="Godot" src="images/godot.png" width="40"/>
@@ -530,10 +530,16 @@ Here are some ideas to get you started:
 <a href="https://ethereum.org/">
 <img alt="Ethereum" src="images/ethereum.png" width="40"/>
 </a>
+
 <br/>
 <br/>
-<img alt="stat" src="images/api"/>
-<img align="center" alt="Youssef-Bouali" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbouali&amp;theme=transparent"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=youssefbouali&show_icons=true&theme=transparent"
+  alt="stat">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbouali&theme=transparent" alt="Youssef-Bouali">
+
 </p>
 
 ##
