@@ -162,7 +162,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://fr.wikipedia.org/wiki/Packet_Tracer">
-<img alt="Packet Tracer" src="images/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28:200" width="40"/>
+<img alt="Packet Tracer" src="images/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28" width="40"/>
 </a>
 <a href="https://www.gns3.com/">
 <img alt="GNS3" src="images/gns3.png" width="40"/>
@@ -225,10 +225,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali&layout=compact&theme=transparent"
   alt="lang stats">
-
-
-**I’m currently learning:**
-<br/>
 
 
 **I’m currently learning:**
@@ -545,7 +541,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=youssefbouali&show_icons=true&theme=transparent"
   alt="stat">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=youssefbouali&theme=transparent" alt="Youssef-Bouali">
+<!--img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbouali&theme=transparent" alt="Youssef-Bouali"-->
 
 </p>
 
