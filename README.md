@@ -221,7 +221,14 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/powerpoint">
 <img alt="PowerPoint" src="images/powerpoint.png" width="40"/>
 </a>
-<img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali&amp;layout=compact&amp;theme=transparent"/>
+        
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbouali&layout=compact&theme=transparent"
+  alt="lang stats">
+
+
+**I’m currently learning:**
+<br/>
 
 
 **I’m currently learning:**
@@ -538,7 +545,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=youssefbouali&show_icons=true&theme=transparent"
   alt="stat">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbouali&theme=transparent" alt="Youssef-Bouali">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=youssefbouali&theme=transparent" alt="Youssef-Bouali">
 
 </p>
 
