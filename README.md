@@ -344,7 +344,7 @@ Here are some ideas to get you started:
 <img alt="Native" src="images/nativescript.png" width="40"/>
 </a>
 <a href="https://ionicframework.com/">
-<img alt="Ionic" src="images/logo.png" width="40"/>
+<img alt="Ionic" src="images/ionicframework.png" width="40"/>
 </a>
 <a href="https://www.android.com/">
 <img alt="Android" src="images/android.png" width="40"/>
@@ -449,7 +449,7 @@ Here are some ideas to get you started:
 <img alt="Aircrack-Ng" src="images/aircrack-ng.jpg" width="60"/>
 </a>
 <a href="https://www.ettercap-project.org/">
-<img alt="Ettercap" src="images/logo.png" width="66"/>
+<img alt="Ettercap" src="images/ettercap.png" width="66"/>
 </a>
 <a href="https://www.tcpdump.org/">
 <img alt="tcpdump" src="images/tcpdump-logo.jpg" width="55"/>
