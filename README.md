@@ -162,7 +162,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://fr.wikipedia.org/wiki/Packet_Tracer">
-<img alt="Packet Tracer" src="images/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28" width="40"/>
+<img alt="Packet Tracer" src="images/packet_tracer.png" width="40"/>
 </a>
 <a href="https://www.gns3.com/">
 <img alt="GNS3" src="images/gns3.png" width="40"/>
@@ -489,7 +489,7 @@ Here are some ideas to get you started:
 <img alt="Figma" src="images/Figma-logo.svg" width="30"/>
 </a>
 <a href="https://adobe.com/xd">
-<img alt="Adobe XD" src="images/xd.svg width="40"/>
+<img alt="Adobe XD" src="images/xd.svg" width="40"/>
 </a>
 <a href="https://staruml.io/">
 <img alt="StarUML" src="images/Staruml_logo.png" width="40"/>
