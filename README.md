@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img alt="Python" src="images/python.png" width="55"/>
 </a>
 <a href="https://www.java.com/">
-<img alt="Java" src="images/java.png" width="40"/>
+<img alt="Java" src="images/java.png" width="30"/>
 </a>
 <a href="https://www.php.net/">
 <img alt="PHP" src="images/php.png" width="50"/>
