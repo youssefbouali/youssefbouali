@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <a href="https://jquery.com/">
 <img alt="Jquery" src="images/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" width="40"/>
 </a>
-<a href="https://fr.wikipedia.org/wiki/Representational_state_transfer">
+<a href="https://en.wikipedia.org/wiki/Representational_state_transfer">
 <img alt="Rest API" src="images/REST_socialmedia.jpg" width="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Progressive_web_application">
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 <a href="https://openvpn.net/">
 <img alt="OpenVpn" src="images/E9DIOxBPab_nMUfmf2fhzNcEAmjOx-wstIak5zwJpZm7184nd8fUPGBeWMvBMnkOHg" width="40"/>
 </a>
-<a href="https://fr.wikipedia.org/wiki/Merise_(informatique)">
+<a href="https://en.wikipedia.org/wiki/Merise">
 <img alt="Merise" src="images/JMeriseLogoPetit.png" width="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language">
@@ -161,7 +161,7 @@ Here are some ideas to get you started:
 <img alt="Mongodb" src="images/mongodb.png" width="55"/>
 </a>
 <br/>
-<a href="https://fr.wikipedia.org/wiki/Packet_Tracer">
+<a href="https://en.wikipedia.org/wiki/Packet_Tracer">
 <img alt="Packet Tracer" src="images/packet_tracer.png" width="40"/>
 </a>
 <a href="https://www.gns3.com/">
@@ -212,13 +212,13 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/products/indesign.html">
 <img alt="Indesign" src="images/indesign.svg" width="40"/>
 </a>
-<a href="https://www.microsoft.com/fr-fr/microsoft-365/word">
+<a href="https://www.microsoft.com/microsoft-365/word">
 <img alt="Word" src="images/word.png" width="40"/>
 </a>
-<a href="https://www.microsoft.com/fr-fr/microsoft-365/excel">
+<a href="https://www.microsoft.com/microsoft-365/excel">
 <img alt="Exel" src="images/excel.png" width="40"/>
 </a>
-<a href="https://www.microsoft.com/fr-fr/microsoft-365/powerpoint">
+<a href="https://www.microsoft.com/microsoft-365/powerpoint">
 <img alt="PowerPoint" src="images/powerpoint.png" width="40"/>
 </a>
         
@@ -361,7 +361,7 @@ Here are some ideas to get you started:
 <a href="https://flutter.dev/">
   <img alt="Flutter" src="https://qtoof.academy/wp-content/uploads/2021/04/Google-flutter-logo-768x219.png" width="40">
 </a>
-<!--a href="https://fr.wikipedia.org/wiki/Xamarin">
+<!--a href="https://en.wikipedia.org/wiki/Xamarin">
   <img alt="Xamarin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" width="40">
 </a-->
 <!--a href="https://go.dev/">
@@ -375,6 +375,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.oracle.com/database/">
 <img alt="Oracle Database" src="images/1680581578662" width="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server/">
+<img alt="SQLServer" src="images/sqlserver.png" width="40"/>
 </a>
 <a href="https://www.sqlite.org/">
 <img alt="SQLite" src="images/sqlite.png" width="40"/>
@@ -400,7 +403,7 @@ Here are some ideas to get you started:
 <a href="https://www.vmware.com/products/esxi-and-esx.html">
 <img alt="VMware ESXi" src="images/esxi.png" width="40"/>
 </a>
-<a href="https://fr.wikipedia.org/wiki/Hyper-V">
+<a href="https://en.wikipedia.org/wiki/Hyper-V">
 <img alt="Hyper-V" src="images/457930.png" width="40"/>
 </a>
 <a href="https://azure.microsoft.com/">
@@ -497,6 +500,9 @@ Here are some ideas to get you started:
 <a href="https://staruml.io/">
 <img alt="StarUML" src="images/Staruml_logo.png" width="40"/>
 </a>
+<a href="https://www.microsoft.com/microsoft-365/project/project-management-software">
+<img alt="MS Project" src="images/msproject.png" width="40"/>
+</a>
 <a href="https://owncloud.com/">
 <img alt="Owncloud" src="images/owncloud-logo1_1-1-30.png" width="40"/>
 </a>
@@ -535,6 +541,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://matplotlib.org/">
 <img alt="Matplotlib" src="images/matplotlib.png" width="40"/>
+</a>
+<a href="https://scikit-learn.org/">
+<img alt="Scikit-Learn" src="images/scikitlearn.png" width="40"/>
 </a>
 <a href="https://opencv.org/">
 <img alt="OpenCV" src="images/opencv.png" width="40"/>
