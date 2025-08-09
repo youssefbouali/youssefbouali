@@ -283,8 +283,8 @@ Here are some ideas to get you started:
   alt="lang stats">
 
 
-**I’m currently learning:**
-<br/>
+<!-- **I’m currently learning:**
+<br/-->
 
 <!--a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 <img alt="C" src="images/c-original.svg" width="40"/>
