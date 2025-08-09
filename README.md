@@ -594,8 +594,8 @@ Here are some ideas to get you started:
   <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40">
 </a-->
 
-<br/>
-<br/>
+<!--br/>
+<br/-->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=youssefbouali&show_icons=true&theme=transparent"
